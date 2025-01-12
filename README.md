@@ -18,7 +18,6 @@ Just a tech enthusiast who loves building cool stuff and drooling over Porsches!
 Got a project idea? Job lead? Or just want to talk about cars? Hit me up!
 - 📧 Drop me a line at ngovinda@usc.edu
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/nikhil-govindaraju/)
-- 🐱 Check out my projects on [GitHub](https://github.com/nikhilgovindaraju)
 
 ### 🎮 Fun Fact
 When I'm not infront of my laptop, you'll find me whipping up gourmet meals in the kitchen or capturing life's moments through my camera lens! 📸🍳
