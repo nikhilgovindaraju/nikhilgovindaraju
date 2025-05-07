@@ -4,7 +4,7 @@
 Just a tech enthusiast who loves building cool stuff and drooling over Porsches! Currently cruising through my Master's in Computer Science at USC 🎓
 
 ### 🛠️ What I'm Up To
-- 💻 Crafting slick web apps with MEAN stack
+- 💻 Crafting slick web apps with MEAN and MERN stack
 - 📱 Building iOS apps when I'm not debugging my life
 - 🏎️ Dreaming about that 911 GT3 RS (one day!)
 - 🌟 Always down to collaborate on exciting projects
