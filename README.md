@@ -1,8 +1,9 @@
 <h1 align="center">Hey, I'm Nikhil Govindaraju 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=33F7C2&center=true&vCenter=true&width=440&lines=Full-Stack+Developer+💻;AWS+Cloud+☁️;Building+Scalable+Systems+💡;AI/ML+Enthusiast+🤖;Code.+Ship.+Impact.+🎯;⚛️+React-ing+to+Innovation;Certified+Scrum+Master" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=33F7C2&center=true&vCenter=true&width=440&lines=Full-Stack+Developer+💻;AWS+Cloud+☁️;Building+Scalable+Systems+💡;AI%2FML+Enthusiast+🤖;Code.+Ship.+Impact.+🎯;⚛️+React-ing+to+Innovation;Certified+Scrum+Master" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="mailto:ngovinda@usc.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
@@ -34,9 +35,31 @@ Whether it’s architecting encrypted health platforms, optimizing cloud workflo
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,react,nextjs,angular,nodejs,fastapi,flask,spring,postgres,mongodb,docker,kubernetes,aws,gcp,redis,graphql,prisma,figma,tailwind,githubactions,git,kafka,tensorflow,pytorch" />
+### 👨‍🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,bootstrap,flutter,figma" />
 </p>
+
+### 🛠️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,spring,java" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,git" />
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+</p>
+
+### 🧠 ML / Data Science
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
 
 ---
 
